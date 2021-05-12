@@ -1,1 +1,1 @@
-# primo-brighter
+# Built with [primo](https://primo.so)
